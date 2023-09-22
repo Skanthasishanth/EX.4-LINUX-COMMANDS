@@ -1,6 +1,6 @@
 # OS EX.4-LINUX-COMMANDS
 ## AIM :
-To study and execute the basis of UNIX commands.
+To study and execute the basis of LINUX commands.
 ## Materials Required :
 ### Hardware requirements :
 
@@ -241,4 +241,4 @@ Output:
 	Downloads file.zip from the specified URL.
 ```
 ## Result:
-Thus basis of UNIX commands are studied and executed.
+Thus basis of LINUX commands are studied and executed.
